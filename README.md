@@ -1,2 +1,2 @@
 # ml-foundations
-Customer Churn Prediction – End-to-End Machine Learning Pipeline.  Built an end-to-end machine learning pipeline to predict customer churn using Scikit-learn. Performed EDA, feature engineering, model comparison, and evaluated performance using precision, recall, F1, and ROC-AUC. Deployed the final model as a REST API using FastAPI.
+Practice repository focused on core machine learning concepts including data cleaning, EDA, feature engineering, model training, and evaluation using Python and Scikit-learn. Designed to strengthen fundamentals and build industry-ready ML workflow skills.Includes model evaluation techniques and structured workflows for building reproducible ML pipelines.
